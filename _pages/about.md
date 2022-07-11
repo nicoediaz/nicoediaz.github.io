@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p><i>Senior Researcher and Lecturer</i></p>
+subtitle: <p><h5><i>Senior Researcher and Lecturer</i></h5></p>
 
 profile:
   align: right
