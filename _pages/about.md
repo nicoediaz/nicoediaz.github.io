@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Senior Researcher and Lecturer
 permalink: /
 subtitle: <p><h5><i>Senior Researcher and Lecturer</i></h5></p>
 
