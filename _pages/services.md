@@ -28,7 +28,7 @@ nav: true
 - 12th International Conference on Knowledge Management and Information Systems (`KMIS 2020`) | Session chair
 - 39th International Conference on Computer Safety, Reliability, and Security (`SAFECOMP 2020`) | Sub-reviewer
 
-## Other professional and academic services
+### Other professional and academic services
 - [AIofAI '22](https://sites.google.com/view/aiofai-2022/home): 2nd Workshop on Adverse Impacts and Collacteral Effects of AI Technologies (2022) | Organizer
 - [AIofAI '21](https://sites.google.com/view/aiofai2021/): 1st Workshop on Adverse Impacts and Collacteral Effects of AI Technologies (2021) | Organizer
 - United Nations’ Roundtable 3C on Artificial Intelligence (2020) | Expert Consultant
