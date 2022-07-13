@@ -1,8 +1,9 @@
 ---
 layout: page
-permalink: /academic/
+permalink: /services/
 title: services
 description: PC Memberships, Reviewer Activities.
+nav_order: 3
 nav: true
 ---
 
