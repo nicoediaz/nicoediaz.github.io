@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /services/
-title: academic~services
+title: academic&nbsp;services
 description: Academic services, PC memberships, reviewer activities.
 nav_order: 5
 nav: true
