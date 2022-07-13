@@ -1,12 +1,12 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Nicolás E. Díaz Ferreyra
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German, Spanish
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Nicolás E. Díaz Ferreyra
+#    - name: Date of Birth
+#      value: October 2nd
+#    - name: Languages
+#      value: English, German, Spanish
 
 - title: Education
   type: time_table
