@@ -7,10 +7,10 @@ nav_order: 3
 nav: true
 ---
 
-##Program committee memberships
-- 2nd International Conference on Cyber-Security and Resilience (CSR 2022)
-- 37th International Conference on ICT Systems Security and Privacy Protection (IFIP SEC 2022)
-- International Workshop on Privacy Engineering (IWPE 2022)
+## Program committee memberships
+- 2nd International Conference on Cyber-Security and Resilience (`CSR 2022`)
+- 37th International Conference on ICT Systems Security and Privacy Protection (`IFIP SEC 2022`)
+- International Workshop on Privacy Engineering (`IWPE 2022)
 - Winter Simulation Conference (WSC 2021) Poster Track
 - 16th International Workshop on Data Privacy Management (DPM 2021)
 - 13th International Symposium on Foundations & Practice of Security (FPS 2021)
