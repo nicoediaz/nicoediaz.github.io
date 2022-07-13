@@ -7,7 +7,9 @@ nav_order: 3
 nav: true
 ---
 
-## Program committee memberships
+## ACADEMIC SERVICES
+
+### Program committee memberships
 - 2nd International Conference on Cyber-Security and Resilience (`CSR 2022`)
 - 37th International Conference on ICT Systems Security and Privacy Protection (`IFIP SEC 2022`)
 - International Workshop on Privacy Engineering (`IWPE 2022`)
