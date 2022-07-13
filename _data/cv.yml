@@ -15,9 +15,9 @@
       institution: University of Duisnurg-Essen, Duisburg, Germany
       year: 2019
       description:
-        - value: "1st Advisor: Prof. Maritta Heisel"
-        - value: "2nd Advisor: Prof. Nicole Krämer"
-        - value: "Instructional Awareness: A User-Centred Approach for Risk Communication in Social Network Sites"
+        - 1st Advisor: Prof. Maritta Heisel
+        - 2nd Advisor: Prof. Nicole Krämer
+        - Instructional Awareness: A User-Centred Approach for Risk Communication in Social Network Sites
           contents:
             - Sub-description 1.
             - Sub-description 2.
