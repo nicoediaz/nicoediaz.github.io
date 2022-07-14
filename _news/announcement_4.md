@@ -1,11 +1,11 @@
 ---
 layout: post
-title: IGF 2021 :flag-un: Town Hall &#35;19 Paving the Road for the European Regulation on AI
+title: IGF 2021 Town Hall &#35;19 Paving the Road for the European Regulation on AI
 date: 2021-12-08 16:11:00-0400
 inline: false
 ---
 
-I had the pleasure to co-organize this [Town Hall](https://www.intgovforum.org/en/content/igf-2021-town-hall-19-paving-the-road-for-the-european-regulation-on-ai) panel at the United Nations Internet Governance Forum.
+I had the pleasure to co-organize this [Town Hall](https://www.intgovforum.org/en/content/igf-2021-town-hall-19-paving-the-road-for-the-european-regulation-on-ai) panel at the `United Nations Internet Governance Forum`.
 
 ***
 
