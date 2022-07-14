@@ -1,31 +1,11 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: IGF 2021 Town Hall 19 Paving the Road for the European Regulation on AI
+date: 2021-12-08 16:11:00-0400
 inline: false
 ---
+### IGF 2021 Town Hall 19 Paving the Road for the European Regulation on AI
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The regulation of Artificial Intelligence (AI) systems has been intensively discussed throughout the last decade. Particularly, concerns about the threats that certain AI applications may introduce to people’s privacy, autonomy, and welfare have been raised and addressed by practitioners, civil society, and policy-makers. To a large extent, such concerns have shaped the new regulatory framework on AI proposed by the European Commission. However, despite incorporating sound ethical principles, many challenges are upfront regarding international law, applicability, and adoption among AI practitioners. This panel discusses an overview of this new proposal for “Regulation laying down harmonised rules on artificial intelligence” and its potential opportunities and challenges under international law. In particular, this panel will focus on the implications of including deceptive/subliminal techniques and remote biometric identification systems as prohibited categories within the new EU proposal and the socio-technical ethical implications around it. Furthermore, this panel will assess the implications of this new legal framework on AI within the international (human rights) legal framework. The topic implies an initiative to study a barely new regulation that attempts to limit a new technology created by humans but performed by non-humans (robots). The proposal research questions are the following ones: 1. What is the novel approach of the EU regulation about systems of artificial intelligence? 2. What are the practical and socio-technical implications of including subliminal techniques and remote biometric identification systems as prohibited categories within the EU regulation proposal on AI? 3. What are the main opportunities and challenges of these subliminal techniques and remote biometric identification systems within the rules of international law? 4. What are the main opportunities and challenges to strengthen the human rights law and its protection of fundamental rights? What is the impact on human rights? How to ensure meaningful, timely, and transparent multi-stakeholder participation in assessing human rights impacts? The AI systems represent the possibility of breaking the rules for creating and regulating human activity as we know. Therefore, any potential regulation on the matter, particularly when it contains provisions that may harm humans, must be an issue of analysis from a regional and international point of view.
 
-***
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_qsxfsHsWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
