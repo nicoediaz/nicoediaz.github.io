@@ -24,4 +24,4 @@ This panel discusses an overview of this new proposal for “Regulation laying d
 
 The AI systems represent the possibility of breaking the rules for creating and regulating human activity as we know. Therefore, any potential regulation on the matter, particularly when it contains provisions that may harm humans, must be an issue of analysis from a regional and international point of view.
 
-<div align="center"><iframe width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" src="https://www.youtube.com/embed/t_qsxfsHsWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/t_qsxfsHsWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
