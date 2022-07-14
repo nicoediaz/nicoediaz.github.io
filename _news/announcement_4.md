@@ -9,7 +9,7 @@ I had the pleasure to co-organize this [Town Hall](https://www.intgovforum.org/e
 
 ***
 
-### Theme and Goals
+#### Panel Theme and Goals
 
 The regulation of Artificial Intelligence (AI) systems has been intensively discussed throughout the last decade. Particularly, concerns about the threats that certain AI applications may introduce to people’s privacy, autonomy, and welfare have been raised and addressed by practitioners, civil society, and policy-makers. To a large extent, such concerns have shaped the new regulatory framework on AI proposed by the European Commission. However, despite incorporating sound ethical principles, many challenges are upfront regarding international law, applicability, and adoption among AI practitioners. 
 
@@ -24,4 +24,4 @@ This panel discusses an overview of this new proposal for “Regulation laying d
 
 The AI systems represent the possibility of breaking the rules for creating and regulating human activity as we know. Therefore, any potential regulation on the matter, particularly when it contains provisions that may harm humans, must be an issue of analysis from a regional and international point of view.
 
-<div align="center"><iframe width="80%" height="" allowfullscreen="" src="https://www.youtube.com/embed/t_qsxfsHsWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center"><iframe width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" src="https://www.youtube.com/embed/t_qsxfsHsWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
