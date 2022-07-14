@@ -1,6 +1,6 @@
 ---
 layout: post
-title: |- IGF 2021 Town Hall #19 Paving the Road for the European Regulation on AI
+title: IGF 2021 Town Hall &#35;19 Paving the Road for the European Regulation on AI
 date: 2021-12-08 16:11:00-0400
 inline: false
 ---
