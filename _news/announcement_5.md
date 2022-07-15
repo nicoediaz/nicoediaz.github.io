@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Dialogues on Accountability in the Digital Age
+title: I4ADA: Dialogues on Accountability in the Digital Age
 date: 2021-08-16 16:11:00-0400
 inline: false
 ---
 
-I had a very nice conversation with Frits Bussemaker from [I4ADA](https://i4ada.org), The Institute for Accountability in the Digital Age. We discussed about the benefits and drawbacks of digital nudging for cybersecrity and the role of AI for increasing their efficacy.
+I had a very nice conversation with Frits Bussemaker from [I4ADA](https://i4ada.org), `The Institute for Accountability in the Digital Age`. We discussed about the benefits and drawbacks of digital nudging for cybersecrity and the role of AI for increasing their efficacy.
 
 ***
 
