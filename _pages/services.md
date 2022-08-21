@@ -34,7 +34,7 @@ nav: true
 
 ### Other professional and academic services
 ---
-- [MSR4P&S](https://msr4ps.netlify.app): International Workshop on Mining Software Repositories Applications for Privacy and Security \| *Organizer*
+- [MSR4P&S](https://msr4ps.netlify.app): International Workshop on MSR Applications for Privacy and Security \| *Organizer*
 - [AIofAI '22](https://sites.google.com/view/aiofai-2022/home): 2nd Workshop on Adverse Impacts and Collacteral Effects of AI Technologies \| *Organizer*
 - [AIofAI '21](https://sites.google.com/view/aiofai2021/): 1st Workshop on Adverse Impacts and Collacteral Effects of AI Technologies \| *Organizer*
 - United Nations’ Roundtable 3C on Artificial Intelligence (2020) \| *Expert Consultant*
