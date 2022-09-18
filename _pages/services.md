@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- 2nd ICDM International Workshop on AI for Nudging and Personalization (`WAIN-2022`)
 - 2nd International Conference on Cyber-Security and Resilience (`CSR 2022`)
 - 37th International Conference on ICT Systems Security and Privacy Protection (`IFIP SEC 2022`)
 - International Workshop on Privacy Engineering (`IWPE 2022`)
