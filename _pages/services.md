@@ -25,13 +25,15 @@ nav: true
 
 ### Reviewing and conference activities
 ---
-- Computers and Security (COSE)
-- Journal of Systems and Software (JSS)
-- MDPI Journal Applied Sciences (ISSN 2076-3417; CODEN: ASPCC7)
-- MDPI Journal Entropy (ISSN 1099-4300; CODEN: ENTRFG)
-- MDPI Journal Information (ISSN 2078-2489; CODEN: INFOGG)
+- Information and Software Technology (`IST`)
+- Computers and Security (`COSE`)
+- Journal of Systems and Software (`JSS`)
+- The 2022 European Symposium on Usable Security (`EuroUSEC 2022`) \| *Session chair*
 - 12th Conference on Knowledge Management and Information Systems (`KMIS 2020`) \| *Session chair*
 - 39th Conference on Computer Safety, Reliability, and Security (`SAFECOMP 2020`) \| *Sub-reviewer*
+- MDPI Applied Sciences (ISSN 2076-3417; CODEN: ASPCC7)
+- MDPI Entropy (ISSN 1099-4300; CODEN: ENTRFG)
+- MDPI Information (ISSN 2078-2489; CODEN: INFOGG)
 
 ### Other professional and academic services
 ---
