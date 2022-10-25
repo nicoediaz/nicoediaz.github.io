@@ -25,6 +25,7 @@ nav: true
 
 ### Reviewing and conference activities
 ---
+- Software and Systems Modeling (`SoSyM`)
 - Information and Software Technology (`IST`)
 - Computers and Security (`COSE`)
 - Journal of Systems and Software (`JSS`)
