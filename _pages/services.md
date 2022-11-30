@@ -10,8 +10,9 @@ nav: true
 ### Program committee memberships
 ---
 - International Workshop on Software Vulnerability Management (`SVM @ICSE 2023`)
-- 2nd ICDM International Workshop on AI for Nudging and Personalization (`WAIN-2022`)
+- 2nd ICDM International Workshop on AI for Nudging and Personalization (`WAIN 2022`)
 - 17th International Workshop on Data Privacy Management (`DPM 2022`)
+- Winter Simulation Conference (`WSC 2022`) Poster Track
 - 2nd International Conference on Cyber-Security and Resilience (`CSR 2022`)
 - 37th International Conference on ICT Systems Security and Privacy Protection (`IFIP SEC 2022`)
 - International Workshop on Privacy Engineering (`IWPE 2022`)
