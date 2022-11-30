@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- International Workshop on Software Vulnerability Management (`SVM @ICSE 2023`)
 - 2nd ICDM International Workshop on AI for Nudging and Personalization (`WAIN-2022`)
 - 2nd International Conference on Cyber-Security and Resilience (`CSR 2022`)
 - 37th International Conference on ICT Systems Security and Privacy Protection (`IFIP SEC 2022`)
@@ -23,7 +24,7 @@ nav: true
 - 10th Conference on Social Media Technologies, Communication, and Informatics (`SOTICS 2020`)
 - 9th Conference on Social Media Technologies, Communication, and Informatics (`SOTICS 2019`)
 
-### Reviewing and conference activities
+### Journal reviewing and conference activities
 ---
 - Software and Systems Modeling (`SoSyM`)
 - Information and Software Technology (`IST`)
