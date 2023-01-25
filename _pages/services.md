@@ -28,6 +28,7 @@ nav: true
 
 ### Journal reviewing and conference activities
 ---
+- 2023 CHI Conference on Human Factors in Computing Systems (`CHI '23`) \| *Reviewer* 
 - Software and Systems Modeling (`SoSyM`)
 - Information and Software Technology (`IST`)
 - Computers and Security (`COSE`)
