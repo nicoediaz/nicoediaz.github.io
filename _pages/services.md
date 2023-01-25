@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- International Workshop on Privacy Engineering (`IWPE 2023`)
 - International Workshop on Software Vulnerability Management (`SVM@ICSE 2023`)
 - 2nd ICDM International Workshop on AI for Nudging and Personalization (`WAIN 2022`)
 - 17th International Workshop on Data Privacy Management (`DPM 2022`)
@@ -29,6 +30,7 @@ nav: true
 ### Journal reviewing and conference activities
 ---
 - 2023 CHI Conference on Human Factors in Computing Systems (`CHI '23`) \| *Reviewer* 
+- IET Software
 - Software and Systems Modeling (`SoSyM`)
 - Information and Software Technology (`IST`)
 - Computers and Security (`COSE`)
