@@ -9,6 +9,8 @@ nav: true
 
 ### Program committee memberships
 ---
+- 18th International Conference on Availability, Reliability and Security (`ARES 2023`)
+- The 2023 European Symposium on Usable Security (`EuroUSEC 2023`)
 - International Workshop on Privacy Engineering (`IWPE 2023`)
 - International Workshop on Software Vulnerability Management (`SVM@ICSE 2023`)
 - 2nd ICDM International Workshop on AI for Nudging and Personalization (`WAIN 2022`)
