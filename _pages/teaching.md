@@ -11,7 +11,7 @@ nav_order: 4
 ---
 
 `BSc. Course "Introduction to Information Security"` | **TUHH**
-- Period: WiSe 21-22, WiSe 22-23
+- Period: WiSe 21/22, WiSe 22/23
 - Lectures: 
   - Lecture 8: **Access Control**
   - Lecture 11: **Privacy by Design**
@@ -38,4 +38,4 @@ nav_order: 4
 - Period: SoSe 22
 
 `Seminar "Engineering Privacy-Friendly Systems"` | **TUHH**
-- Period: WiSe 22-23
+- Period: WiSe 22/23
