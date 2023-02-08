@@ -10,14 +10,14 @@ nav_order: 4
 ### Current Courses
 ---
 
-##### BSc. Course `Introduction to Information Security`| TUHH
+###### BSc. Course `Introduction to Information Security`| TUHH
 - Period: WiSe 2022, WiSe 2023
 - Lectures: 
   - Lecture 8: **Access Control**
   - Lecture 11: **Privacy by Design**
   - Lecture 12: **Tracking and Dark Patterns**
 
-##### MSc. Course `Secure Software Engineering` | TUHH
+###### MSc. Course `Secure Software Engineering` | TUHH
 - Period: SoSe 2022, SoSe 2023
 - Lectures:
   - Lecture 9: **Privacy Engineering I**
