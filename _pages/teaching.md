@@ -10,7 +10,7 @@ nav_order: 4
 ### Current Courses
 ---
 
-`BSc. Course "Introduction to Information Security"`| **TUHH**
+`BSc. Course "Introduction to Information Security"` | **TUHH**
 - Period: WiSe 2022, WiSe 2023
 - Lectures: 
   - Lecture 8: **Access Control**
