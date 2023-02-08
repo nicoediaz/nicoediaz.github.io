@@ -11,14 +11,14 @@ nav_order: 4
 ---
 
 `BSc. Course "Introduction to Information Security"` | **TUHH**
-- Period: WiSe 2022, WiSe 2023
+- Period: WiSe 21-22, WiSe 22-23
 - Lectures: 
   - Lecture 8: **Access Control**
   - Lecture 11: **Privacy by Design**
   - Lecture 12: **Tracking and Dark Patterns**
 
 `MSc. Course "Secure Software Engineering"` | **TUHH**
-- Period: SoSe 2022, SoSe 2023
+- Period: SoSe 22, SoSe 23
 - Lectures:
   - Lecture 9: **Privacy Engineering I**
   - Lecture 10: **Privacy Engineering II**
@@ -35,5 +35,7 @@ nav_order: 4
 ---
 
 `Seminar "Usable Security and Privacy"` | **TUHH**
+- Period: SoSe 22
 
 `Seminar "Engineering Privacy-Friendly Systems"` | **TUHH**
+- Period: WiSe 22-23
