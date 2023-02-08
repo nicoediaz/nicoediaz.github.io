@@ -19,7 +19,7 @@ nav_order: 4
 - Lecture 9: Privacy Engineering I
 - Lecture 10: Privacy Engineering II
 - Lecture 11: Human Factors in Cybersecurity
-- Labs
+- Labs supervision
 
 ### Current Seminars
 ---
