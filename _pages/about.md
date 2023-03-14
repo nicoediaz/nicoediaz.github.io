@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <i>Senior Researcher and Lecturer</i>
-
+author: ["Nicolas E. Diaz Ferreyra", "Nicolas Diaz Ferreyra"]
 profile:
   align: right
   image: prof_pic.jpg
