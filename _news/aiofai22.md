@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-03-04
+date: 2022-18-05
 inline: true
 ---
 
-I am co-organizing the [2nd Workshop on Adverse Impacts and Collateral Effects of AI Technologies](https://sites.google.com/view/aiofai-2022/) at `IJCAI '22`
+I am co-organizing the [3rd Workshop on Adverse Impacts and Collateral Effects of AI Technologies](https://sites.google.com/view/aiofai2023/home) at `IJCAI '23`
+
