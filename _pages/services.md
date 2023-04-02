@@ -37,6 +37,7 @@ nav: true
 - Information and Software Technology (`IST`)
 - Computers and Security (`COSE`)
 - Journal of Systems and Software (`JSS`)
+- Social Network Analysis and Mining (`SNAM`)
 - The 2022 European Symposium on Usable Security (`EuroUSEC 2022`) \| *Session chair*
 - 12th Conference on Knowledge Management and Information Systems (`KMIS 2020`) \| *Session chair*
 - 39th Conference on Computer Safety, Reliability, and Security (`SAFECOMP 2020`) \| *Sub-reviewer*
