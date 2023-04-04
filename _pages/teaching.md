@@ -9,6 +9,15 @@ nav_order: 4
 
 ### Current Courses
 ---
+`MSc. Course "Cybersecurity Data Science"` | **TUHH**
+- Period: SoSe 22, SoSe 23
+- Lectures:
+  - Lecture 2: **Machine Learning Fundamentals**
+  - Lecture 3: **Machine Learning Fundamentals**
+  - Lecture 6: **Mining Software Repositories**
+  - Lecture 11: **Statistics and Experimental Design**
+  - Lecture 12: **Survey Methods**
+  - Lecture 13: **Text Mining Applications**
 
 `BSc. Course "Introduction to Information Security"` | **TUHH**
 - Period: WiSe 21/22, WiSe 22/23
