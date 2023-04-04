@@ -10,7 +10,7 @@ nav_order: 4
 ### Current Courses
 ---
 `MSc. Course "Cybersecurity Data Science"` | **TUHH**
-- Period: SoSe 22, SoSe 23
+- Period: SoSe 23
 - Lectures:
   - Lecture 2: **Machine Learning Fundamentals**
   - Lecture 3: **Machine Learning Fundamentals**
@@ -44,7 +44,7 @@ nav_order: 4
 ---
 
 `Seminar "Usable Security and Privacy"` | **TUHH**
-- Period: SoSe 22
+- Period: SoSe 22, SoSe 23
 
 `Seminar "Engineering Privacy-Friendly Systems"` | **TUHH**
 - Period: WiSe 22/23
