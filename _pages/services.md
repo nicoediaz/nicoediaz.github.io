@@ -9,7 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
-- 26th ACM Conference On Computer-Supported Cooperative Work (`CSCW`) Poster Track
+- 26th ACM Conference On Computer-Supported Cooperative Work (`CSCW 2023`) Poster Track
 - 18th International Conference on Availability, Reliability and Security (`ARES 2023`)
 - The 2023 European Symposium on Usable Security (`EuroUSEC 2023`)
 - International Workshop on Privacy Engineering (`IWPE 2023`)
