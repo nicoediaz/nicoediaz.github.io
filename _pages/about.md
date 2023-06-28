@@ -6,7 +6,7 @@ subtitle: <i>Senior Researcher and Lecturer</i>
 author: ["Nicolas E. Diaz Ferreyra", "Nicolas Diaz Ferreyra"]
 profile:
   align: right
-  image: nico2.png
+  image: nico2jpg.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Institute of Software Security</p>
