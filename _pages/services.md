@@ -33,6 +33,7 @@ nav: true
 
 ### Journal reviewing and conference activities
 ---
+- International Journal of Human-Computer Interaction (`IJHCI`)
 - 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
 - IET Software (ISSN 1751-8806)
 - Software and Systems Modeling (`SoSyM`)
