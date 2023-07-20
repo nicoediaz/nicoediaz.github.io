@@ -16,6 +16,21 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Person",
+	"familyName": "Díaz Ferreyra",
+	"givenName": "Nicolás E.",
+	"worksFor": "https://www.tuhh.de/tuhh/en/startpage",
+	"jobTitle": "Researcher",
+	"alumniOf": "https://www.tuhh.de/tuhh/en/startpage",
+	"image": "https://www.ndiaz-ferreyra.com/assets/img/nico2jpg.jpg",
+	"gender": "http://schema.org/Male",
+	"sameAs": ["https://twitter.com/nicolasediaz","https://www.linkedin.com/in/nicoediaz/"]
+}
+</script>
 ---
 
 I am a senior researcher and lecturer at the [Institute of Software Security](https://www.tuhh.de/softsec/) of [Hamburg University of Technology](https://www.tuhh.de/). My main research focus stands at the intersection of human-computer interaction and privacy engineering. Particularly, I seek to create technological solutions for supporting the cybersecurity decisions of social network users and software developers. For this, I elaborate on digital nudging applications, their personalization by means of Artificial Intelligence (AI), and ethical issues arising from combining persuasion with AI.
