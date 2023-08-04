@@ -12,8 +12,8 @@ nav_order: 4
 `MSc. Course "Cybersecurity Data Science"` | **TUHH**
 - Period: SoSe 23
 - Lectures:
-  - Lecture 2: **Machine Learning Fundamentals**
-  - Lecture 3: **Machine Learning Fundamentals**
+  - Lecture 2: **Machine Learning Fundamentals I**
+  - Lecture 3: **Machine Learning Fundamentals II**
   - Lecture 6: **Mining Software Repositories**
   - Lecture 11: **Statistics and Experimental Design**
   - Lecture 12: **Survey Methods**
