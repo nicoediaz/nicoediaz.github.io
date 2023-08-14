@@ -33,7 +33,7 @@ nav: true
 
 ### Journal reviewing and conference activities
 ---
-- Computers in Human Behabiour Reports (`CHBR`)
+- Computers in Human Behavior Reports (`CHBR`)
 - International Journal of Human-Computer Interaction (`IJHCI`)
 - 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
 - IET Software (ISSN 1751-8806)
