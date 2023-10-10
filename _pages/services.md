@@ -10,13 +10,13 @@ nav: true
 ### Program committee memberships
 ---
 - 28th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2024`)
-- International Workshop on Software Vulnerability Management (`SVM@ICSE 2024`)
+- 2nd International Workshop on Software Vulnerability Management (`SVM@ICSE 2024`)
 - 26th ACM Conference On Computer-Supported Cooperative Work (`CSCW 2023`) Poster Track
 - 18th International Workshop on Data Privacy Management (`DPM 2023`)
 - 18th International Conference on Availability, Reliability and Security (`ARES 2023`)
 - The 2023 European Symposium on Usable Security (`EuroUSEC 2023`)
 - International Workshop on Privacy Engineering (`IWPE 2023`)
-- International Workshop on Software Vulnerability Management (`SVM@ICSE 2023`)
+- 1st International Workshop on Software Vulnerability Management (`SVM@ICSE 2023`)
 - 2nd ICDM International Workshop on AI for Nudging and Personalization (`WAIN 2022`)
 - 17th International Workshop on Data Privacy Management (`DPM 2022`)
 - Winter Simulation Conference (`WSC 2022`) Poster Track
