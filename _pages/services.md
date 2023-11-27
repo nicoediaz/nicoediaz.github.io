@@ -10,6 +10,7 @@ nav: true
 ### Program committee memberships
 ---
 - 28th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2024`)
+- 19th International Conference on Availability, Reliability and Security (`ARES 2024`)
 - 2nd International Workshop on Software Vulnerability Management (`SVM@ICSE 2024`)
 - 26th ACM Conference On Computer-Supported Cooperative Work (`CSCW 2023`) Poster Track
 - 18th International Workshop on Data Privacy Management (`DPM 2023`)
