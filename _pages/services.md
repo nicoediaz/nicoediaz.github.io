@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- The 2024 European Symposium on Usable Security (`EuroUSEC 2024`)
 - 28th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2024`)
 - 19th International Conference on Availability, Reliability and Security (`ARES 2024`)
 - 2nd International Workshop on Software Vulnerability Management (`SVM@ICSE 2024`)
