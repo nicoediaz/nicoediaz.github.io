@@ -17,8 +17,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
+<!--
 I am a senior researcher and lecturer at the [Institute of Software Security](https://www.tuhh.de/softsec/) of [Hamburg University of Technology](https://www.tuhh.de/). My main research focus stands at the intersection of human-computer interaction and privacy engineering. Particularly, I seek to create technological solutions for supporting the cybersecurity decisions of social network users and software developers. For this, I elaborate on digital nudging applications, their personalization by means of Artificial Intelligence (AI), and ethical issues arising from combining persuasion with AI.
+-->
+
+I am a senior researcher and lecturer at the [Institute of Software Security](https://www.tuhh.de/softsec/) of [Hamburg University of Technology](https://www.tuhh.de/). My main research focus stands at the intersection of human-computer interaction and privacy engineering. Particularly, I am passionate about people's privacy practices in networked environments, their associated risks, and developing technologies to support information disclosure. For this, I analyse empirical data extracted from software repositories, conduct studies with human participants, and elaborate on machine learning models. I am especially interested in digital nudging applications for privacy and the usability of security-enhancing technologies. 
 
 Before joining the Hamburg University of Technology, I worked as a postdoctoral fellow at the [University of Duisburg-Essen](https://www.uni-due.de). From January 2020 to October 2021 I was the coordinator of the RTG “User-Centered Social Media” funded by the German Research Foundation (DFG). Between August 2018 and September 2021 I participated in the H2020 project “PDP4E: Methods and Tools for GDPR Compliance through Privacy and Data Protection Engineering”. In the past, I have worked as a software engineer in Denmark and as an undergraduate research assistant in Argentina.
 
