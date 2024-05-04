@@ -37,6 +37,7 @@ nav: true
 
 ### Journal reviewing and conference activities
 ---
+- Automated Software Engineering (`ASE`)
 - Computers in Human Behavior Reports (`CHBR`)
 - International Journal of Human-Computer Interaction (`IJHCI`)
 - 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
