@@ -56,7 +56,7 @@ nav: true
 
 ### Other professional and academic services
 ---
-- TechDebt '25: 7th International Conference on Technical Debt \| *Publicity Chair*
+- TechDebt '25: 8th International Conference on Technical Debt \| *Publicity Chair*
 - [MSR4P&S '23](https://msr4ps.netlify.app): 2nd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
 - [AIofAI '23](https://sites.google.com/view/aiofai2023/home): 3rd Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
 - [MSR4P&S '22](https://msr4ps.netlify.app): 1st International Workshop on MSR Applications for Privacy and Security \| *Organizer*
