@@ -9,7 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
-- 18th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2025)
+- 18th International Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2025`)
 - 3nd International Workshop on Software Vulnerability Management (`SVM@ICSE 2025`)
 - The 2024 European Symposium on Usable Security (`EuroUSEC 2024`)
 - 28th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2024`)
