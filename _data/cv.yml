@@ -1,9 +1,0 @@
-- title: Contact Information
-  type: map
-  contents:
-    - name: Office address 
-      value: Blohmstr. 15, 21079 Hamburg, Germany
-    - name: Phone
-      value: +49 (0) 404 2878 5003
-    - name: Email
-      value: nicolas.diaz-ferreyra@tuhh.de
