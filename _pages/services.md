@@ -59,6 +59,7 @@ nav: true
 
 ### Other professional and academic services
 ---
+- [MSR4P&S '24](https://msr4ps.github.io): 3rd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
 - [TechDebt '25](https://conf.researchr.org/committee/TechDebt-2025/TechDebt-2025-organizing-committee): 8th International Conference on Technical Debt \| *Publicity Chair*
 - [MSR4P&S '23](https://msr4ps.netlify.app): 2nd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
 - [AIofAI '23](https://sites.google.com/view/aiofai2023/home): 3rd Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
