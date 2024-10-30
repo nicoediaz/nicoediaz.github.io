@@ -39,6 +39,7 @@ nav: true
 
 ### Journal reviewing and conference activities
 ---
+- IEEE Transactions on Software Engineering (`TSE`)
 - Automated Software Engineering (`AUSE`)
 - Information Processing and Management (`IPM`)
 - Computers in Human Behavior Reports (`CHBR`)
