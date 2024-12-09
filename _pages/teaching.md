@@ -1,17 +1,11 @@
 ---
-layout: post
+layout: default
 permalink: /teaching/
 title: teaching
 description: 
 nav: true
 nav_order: 4
-categories: sample-posts
 ---
-
-<div>
-    {% include figure.liquid loading="eager" path="../assets/img/nico_teach.png" class="img-fluid rounded z-depth-1" %}
-</div>
-
 
 ### Current Courses
 ---
