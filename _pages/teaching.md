@@ -7,9 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<div>
-        {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" class="img-fluid rounded z-depth-1" %}
-</div>
+<img src="assets/img/nico_teach.png" width="200" height="100">
 
 ### Current Courses
 ---
