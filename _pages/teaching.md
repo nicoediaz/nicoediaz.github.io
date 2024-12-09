@@ -7,15 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-This is an example post with image galleries.
+As a lecturer, I have contributed to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at Hamburg University of Technology.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/nico_teach.png" class="img-fluid rounded z-depth-1; width=80%" %}
     </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
 
 ### Current Courses
