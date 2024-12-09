@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<img src="../assets/img/nico_teach.png" width="200" height="100">
+<img src="../assets/img/nico_teach.png" height="400">
 
 ### Current Courses
 ---
