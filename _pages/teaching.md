@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: post
 permalink: /teaching/
 title: teaching
 description: 
 nav: true
 nav_order: 4
+categories: sample-posts
 ---
 
 <div>
