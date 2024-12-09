@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+{% include figure.liquid loading="eager" path="assets/img/nico_teach.png" class="img-fluid rounded z-depth-1" %}
+
 ### Current Courses
 ---
 `MSc. Course "Cybersecurity Data Science"` | **TUHH**
