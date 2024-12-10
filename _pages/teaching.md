@@ -22,7 +22,7 @@ I frequently supervise theses and research projects on topics related to privacy
 I am particularly interested in supervising work on **devoper-centered security** and **secure AI-aided software development**. If you are a student at TUHH seeking for supervision and you are into these topics, then [apply here](https://www.tuhh.de/softsec/teaching/thesis).
 
 ##### Guest Lectures
-I have had the honor of sharing my work by offering guest lectures at internationally renowned academic institutions including the *University of Melbourne*, the *University of Montréal*, *Monash University*, *RMIT*, the *University of New South Wales*, and the *University of Paderborn*. Please feel free to reach out for coordinating prospective guest talks or seminars at your local institution.
+I have had the honor of sharing my work by offering guest lectures at internationally renowned academic institutions including the *University of Melbourne*, the *University of Montréal*, *Monash University*, *RMIT*, the *University of New South Wales*, and the *University of Paderborn*. Please feel free to reach out for coordinating **prospective guest talks or seminars** at your local institution.
 
 ---
 `MSc. Course "Cybersecurity Data Science"` | **TUHH**
