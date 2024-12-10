@@ -58,7 +58,6 @@ I have had the honor of sharing my work by offering guest lectures at internatio
   - Lab 5: **Privacy Engineering**
   - Lab 6: **Human Factors in Cybersecurity**
 
-### Current Seminars
 ---
 
 `Seminar "Usable Security and Privacy"` | **TUHH**
