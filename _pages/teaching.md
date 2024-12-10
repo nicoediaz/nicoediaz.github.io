@@ -22,11 +22,11 @@ I frequently supervise theses and research projects on topics related to privacy
 I am particularly interested in supervising work on **devoper-centered security** and secure **AI-aided software development**. If you are a student at TUHH seeking for supervision and you are into these topics, then [apply here](https://www.tuhh.de/softsec/teaching/thesis).
 
 ##### Guest Lectures
-I have had the honor of sharing my work by offering guest lectures at internationally renowned academic institutions including the University of Melbourne, the University of Montreal, Monash University, RMIT, UNSW, and the University of Paderborn. Please **feel free to reach out for coordinating prospective guest talks** or seminars at your local institution.
+I have had the honor of sharing my work by offering guest lectures at internationally renowned academic institutions including the *University of Melbourne*, the *University of Montréal*, *Monash University*, *RMIT*, *UNSW*, and the *University of Paderborn*. Please **feel free to reach out for coordinating prospective guest talks** or seminars at your local institution.
 
 ---
 `MSc. Course "Cybersecurity Data Science"` | **TUHH**
-- Period: SoSe 23
+- Period: Summer Semester
 - Lectures:
   - Lecture 2: **Machine Learning Fundamentals I**
   - Lecture 3: **Machine Learning Fundamentals II**
@@ -37,14 +37,14 @@ I have had the honor of sharing my work by offering guest lectures at internatio
   - Lecture 13: **Text Mining Applications**
 
 `BSc. Course "Introduction to Information Security"` | **TUHH**
-- Period: WiSe 21/22, WiSe 22/23
+- Period: Winter Semester
 - Lectures: 
   - Lecture 8: **Access Control**
   - Lecture 11: **Privacy by Design**
   - Lecture 12: **Tracking and Dark Patterns**
 
 `MSc. Course "Secure Software Engineering"` | **TUHH**
-- Period: SoSe 22, SoSe 23
+- Period: Summer Semester
 - Lectures:
   - Lecture 6: **Assessment of Security Risks II**
   - Lecture 9: **Privacy Engineering I**
@@ -61,7 +61,7 @@ I have had the honor of sharing my work by offering guest lectures at internatio
 ---
 
 `Seminar "Usable Security and Privacy"` | **TUHH**
-- Period: SoSe 22, SoSe 23
+- Period: Summer Semester
 
 `Seminar "Engineering Privacy-Friendly Systems"` | **TUHH**
-- Period: WiSe 22/23
+- Period: Winter Semester
