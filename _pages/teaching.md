@@ -14,9 +14,6 @@ As a lecturer, I actively contribute to the design and implementation of differe
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/nico_teach.png" class="img-fluid rounded z-depth-1; width=80%" %}
     </div>
-    <div class="caption">
-    Guest lecture at UNSW Canberra (Australia). October 2023.
-    </div>
 </div>
 
 ##### Supervision
