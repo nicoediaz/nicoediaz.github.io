@@ -8,7 +8,13 @@ nav_order: 4
 ---
 ### Teaching and Supervision
 
-As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. I frequently supervise theses and research projects on topics related to privacy, security engineering, and usability studies (e.g., devoper-centred security).
+As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. 
+
+I frequently supervise theses and research projects on topics related to privacy, security engineering, and usability studies. Many of these have then been published as conference and workshop papers in collaboration with students.
+
+I am particularly interested in supervising work on devoper-centered security and secure AI-aided software development. If you are a student at TUHH seeking for supervision and you are into these topics, then apply here.
+
+I have had the honor of sharing my work by offering guest lectures at internationally renowned academic institutions including the University of Melbourne, the University of Montreal, Monash University, RMIT, UNSW, and the University of Paderborn. Please feel free to reach out for coordinating prospective guest talks or seminars at your local institution.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
