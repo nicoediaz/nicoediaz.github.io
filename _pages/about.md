@@ -8,7 +8,7 @@ profile:
   align: right
   image: nico2jpg.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Institute of Software Security</p>
     <p>Blohmstr. 15</p>
     <p>21079 Hamburg, Germany</p>
