@@ -389,7 +389,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-project-1",
+    },{id: "news-i-am-co-organizing-the-3rd-workshop-on-mining-software-repositories-applications-for-privacy-and-security-at-saner-39-25",
+          title: 'I am co-organizing the 3rd Workshop on Mining Software Repositories Applications for Privacy...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
