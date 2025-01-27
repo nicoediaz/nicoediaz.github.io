@@ -10,6 +10,8 @@ nav_order: 4
 
 As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. 
 
+{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
 ##### Supervision
 I frequently supervise theses and research projects on topics related to privacy, security engineering, and usability studies. Many of these have then been published as conference and workshop papers in collaboration with students.
 
