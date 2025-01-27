@@ -389,13 +389,24 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-i4ada-amp-58-dialogues-on-accountability-in-the-digital-age",
+          title: 'I4ADA&amp;amp;#58; Dialogues on Accountability in the Digital Age',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_5/";
+            },},{id: "news-igf-2021-town-hall-amp-35-19-paving-the-road-for-the-european-regulation-on-ai",
+          title: 'IGF 2021 Town Hall &amp;amp;#35;19 Paving the Road for the European Regulation on...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-i-am-co-organizing-the-2nd-workshop-on-mining-software-repositories-applications-for-privacy-and-security-at-saner-39-24",
+          title: 'I am co-organizing the 2nd Workshop on Mining Software Repositories Applications for Privacy...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-in-melbourne-from-september-to-mid-november-2023-working-as-a-visiting-scholar-at-rmit-university",
+          title: '📣 I will be in Melbourne 🇦🇺 from September to mid-November 2023, working...',
+          description: "",
+          section: "News",},{id: "news-i-am-co-organizing-the-3rd-workshop-on-mining-software-repositories-applications-for-privacy-and-security-at-saner-39-25",
+          title: 'I am co-organizing the 3rd Workshop on Mining Software Repositories Applications for Privacy...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
