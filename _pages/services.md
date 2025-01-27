@@ -9,7 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
-- 29th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2025`).
+- 29th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2025`)
 - 20th International Conference on Availability, Reliability and Security (`ARES 2025`)
 - 18th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2025`)
 - International Workshop on Privacy Engineering (`IWPE 2025`)
