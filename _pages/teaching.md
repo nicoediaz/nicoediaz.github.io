@@ -10,12 +10,6 @@ nav_order: 4
 
 As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nico_teach.png" class="img-fluid rounded z-depth-1; width=80%" %}
-    </div>
-</div>
-
 ##### Supervision
 I frequently supervise theses and research projects on topics related to privacy, security engineering, and usability studies. Many of these have then been published as conference and workshop papers in collaboration with students.
 
