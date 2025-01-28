@@ -12,7 +12,7 @@ As a lecturer, I actively contribute to the design and implementation of differe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1; height=80%" %}
+        {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1; max-width: 85%" %}
     </div>
 </div>
 
