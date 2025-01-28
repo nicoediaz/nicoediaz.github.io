@@ -1,18 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "name": "Nicolas E. Diaz Ferreyra",
+    "email": "nicolas.diaz-ferreyra@tuhh.de",
+    "phone": " +49(0)404-2878-5003",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Blohmstr. 15",
+      "postalCode": "21079",
+      "city": "Hamburg",
+      "countryCode": "Germany",
     },
     "profiles": [
       {
