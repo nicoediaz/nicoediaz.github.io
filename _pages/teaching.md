@@ -25,7 +25,7 @@ As a lecturer, I actively contribute to the design and implementation of differe
 
     @media (min-width: 768px) {
       .custom-image {
-        max-width: 70%;
+        max-width: 80%;
       }
     }
   </style>
