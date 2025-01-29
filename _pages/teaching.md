@@ -10,7 +10,7 @@ nav_order: 4
 
 As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. 
 
-<div class="row">
+<div class="row"> 
     <div class="col-sm mt-3 mt-md-0">
         <style>
             .custom-image {
