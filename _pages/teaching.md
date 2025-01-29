@@ -11,20 +11,20 @@ nav_order: 4
 As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. 
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
-        <style>
-            .custom-image {
-                max-width: 85%;
-            }
+  <div class="col-12 text-center mt-3">
+    <style>
+      .custom-image {
+        max-width: 85%;
+      }
 
-            @media (min-width: 768px) {
-                .custom-image {
-                    max-width: 50%;
-                }
-            }
-        </style>
-        {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1 custom-image" %}
-    </div>
+      @media (min-width: 768px) {
+        .custom-image {
+          max-width: 50%;
+        }
+      }
+    </style>
+    {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1 custom-image" %}
+  </div>
 </div>
 
 ##### Supervision
