@@ -14,7 +14,8 @@ As a lecturer, I actively contribute to the design and implementation of differe
   <div class="col-12 text-center mt-3">
     <style>
       .custom-image {
-        max-width: 90%;
+        max-width: 92%;
+        margin-top: 0 !important;
       }
 
       @media (min-width: 768px) {
