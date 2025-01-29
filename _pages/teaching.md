@@ -10,15 +10,16 @@ nav_order: 4
 
 As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. 
 
-<div class="row"> 
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
         <style>
             .custom-image {
                 max-width: 85%;
             }
-            @media (min-width: 768px) { /* Larger than mobile (tablet and up) */
+
+            @media (min-width: 768px) {
                 .custom-image {
-                    max-width: 50%; /* Adjust this as needed */
+                    max-width: 50%;
                 }
             }
         </style>
