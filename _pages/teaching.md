@@ -13,16 +13,27 @@ As a lecturer, I actively contribute to the design and implementation of differe
 <div class="row justify-content-center">
     <div class="d-flex justify-content-center mt-3 mt-md-0">
         <style>
+            /* Ensure parent row doesn't restrict centering */
+            .custom-image-wrapper {
+                display: flex;
+                justify-content: center;
+                width: 100%;
+            }
+
             .custom-image {
                 max-width: 85%;
             }
+
             @media (min-width: 768px) {
                 .custom-image {
                     max-width: 50%;
                 }
             }
         </style>
-        {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1 custom-image" %}
+
+        <div class="custom-image-wrapper">
+            {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1 custom-image" %}
+        </div>
     </div>
 </div>
 
