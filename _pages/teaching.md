@@ -17,7 +17,6 @@ As a lecturer, I actively contribute to the design and implementation of differe
         max-width: 95%;
         margin-top: 0 !important;
       }
-
       @media (min-width: 768px) {
         .custom-image {
           max-width: 80%;
