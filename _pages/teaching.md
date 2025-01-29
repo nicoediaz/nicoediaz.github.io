@@ -11,31 +11,21 @@ nav_order: 4
 As a lecturer, I actively contribute to the design and implementation of different courses and seminars at both masters and bachellor levels. Here you can find a list of my current teaching activities at `Hamburg University of Technology`. 
 
 <div class="row justify-content-center">
-    <div class="d-flex justify-content-center mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
         <style>
-            /* Ensure parent row doesn't restrict centering */
-            .custom-image-wrapper {
-                display: flex;
-                justify-content: center;
-                width: 100%;
-            }
-
             .custom-image {
                 max-width: 85%;
             }
-
-            @media (min-width: 768px) {
+            @media (min-width: 768px) { /* Larger than mobile (tablet and up) */
                 .custom-image {
-                    max-width: 50%;
+                    max-width: 50%; /* Adjust this as needed */
                 }
             }
         </style>
-
-        <div class="custom-image-wrapper">
-            {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1 custom-image" %}
-        </div>
+        {% include figure.liquid loading="eager" path="assets/img/nico_teach.png" title="Nicolas E. Diaz Ferreyra" class="img-fluid rounded z-depth-1 custom-image" %}
     </div>
 </div>
+
 
 ##### Supervision
 I frequently supervise theses and research projects on topics related to privacy, security engineering, and usability studies. Many of these have then been published as conference and workshop papers in collaboration with students.
