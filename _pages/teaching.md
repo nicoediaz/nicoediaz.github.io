@@ -37,8 +37,6 @@ As a lecturer, I actively contribute to the design and implementation of differe
     </div>
 </div>
 
-
-
 ##### Supervision
 I frequently supervise theses and research projects on topics related to privacy, security engineering, and usability studies. Many of these have then been published as conference and workshop papers in collaboration with students.
 
