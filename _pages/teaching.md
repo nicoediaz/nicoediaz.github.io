@@ -20,7 +20,7 @@ As a lecturer, I actively contribute to the design and implementation of differe
 
     .custom-image {
       max-width: 95%;
-      margin: 0; /* Removes any margin around the image */
+      margin: 0; /* Removes any margin around the image */ 
     }
 
     @media (min-width: 768px) {
