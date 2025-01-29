@@ -14,13 +14,13 @@ As a lecturer, I actively contribute to the design and implementation of differe
   <div class="col-12 text-center mt-3">
     <style>
       .custom-image {
-        max-width: 92%;
+        max-width: 95%;
         margin-top: 0 !important;
       }
 
       @media (min-width: 768px) {
         .custom-image {
-          max-width: 70%;
+          max-width: 80%;
         }
       }
     </style>
