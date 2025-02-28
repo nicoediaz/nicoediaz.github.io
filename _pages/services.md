@@ -50,7 +50,7 @@ nav: true
 - Computers in Human Behavior Reports (`CHBR`)
 - International Journal of Human-Computer Interaction (`IJHCI`)
 - 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
-- IET Software (ISSN 1751-8806)
+- IET Software
 - Software and Systems Modeling (`SoSyM`)
 - Information and Software Technology (`IST`)
 - Computers and Security (`COSE`)
@@ -59,9 +59,9 @@ nav: true
 - The 2022 European Symposium on Usable Security (`EuroUSEC 2022`) \| *Session chair*
 - 12th Conference on Knowledge Management and Information Systems (`KMIS 2020`) \| *Session chair*
 - 39th Conference on Computer Safety, Reliability, and Security (`SAFECOMP 2020`) \| *Sub-reviewer*
-- MDPI Applied Sciences (ISSN 2076-3417; CODEN: ASPCC7)
-- MDPI Entropy (ISSN 1099-4300; CODEN: ENTRFG)
-- MDPI Information (ISSN 2078-2489; CODEN: INFOGG)
+- MDPI Applied Sciences
+- MDPI Entropy
+- MDPI Information
 
 ### Other professional and academic services
 ---
