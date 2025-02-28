@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- The 2025 European Symposium on Usable Security (`EuroUSEC 2025`)
 - 29th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2025`)
 - 20th International Conference on Availability, Reliability and Security (`ARES 2025`)
 - 18th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2025`)
