@@ -48,6 +48,7 @@ nav: true
 - Automated Software Engineering (`AUSE`)
 - Information Processing and Management (`IPM`)
 - Computers in Human Behavior Reports (`CHBR`)
+- Online Social Networks and Media (`OSNEM`)
 - International Journal of Human-Computer Interaction (`IJHCI`)
 - 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
 - IET Software
