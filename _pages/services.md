@@ -50,19 +50,19 @@ nav: true
 - Computers in Human Behavior Reports (`CHBR`)
 - Online Social Networks and Media (`OSNEM`)
 - International Journal of Human-Computer Interaction (`IJHCI`)
-- 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
-- IET Software
 - Software and Systems Modeling (`SoSyM`)
 - Information and Software Technology (`IST`)
 - Computers and Security (`COSE`)
 - Journal of Systems and Software (`JSS`)
 - Social Network Analysis and Mining (`SNAM`)
-- The 2022 European Symposium on Usable Security (`EuroUSEC 2022`) \| *Session chair*
-- 12th Conference on Knowledge Management and Information Systems (`KMIS 2020`) \| *Session chair*
-- 39th Conference on Computer Safety, Reliability, and Security (`SAFECOMP 2020`) \| *Sub-reviewer*
+- IET Software
 - MDPI Applied Sciences
 - MDPI Entropy
 - MDPI Information
+- 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
+- The 2022 European Symposium on Usable Security (`EuroUSEC 2022`) \| *Session chair*
+- 12th Conference on Knowledge Management and Information Systems (`KMIS 2020`) \| *Session chair*
+- 39th Conference on Computer Safety, Reliability, and Security (`SAFECOMP 2020`) \| *Sub-reviewer*
 
 ### Other professional and academic services
 ---
