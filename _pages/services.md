@@ -48,6 +48,7 @@ nav: true
 - Automated Software Engineering (`AUSE`)
 - Information Processing and Management (`IPM`)
 - Computers in Human Behavior Reports (`CHBR`)
+- PeerJ Computer Science (`PeerJ`)
 - Online Social Networks and Media (`OSNEM`)
 - International Journal of Human-Computer Interaction (`IJHCI`)
 - Software and Systems Modeling (`SoSyM`)
