@@ -44,6 +44,7 @@ nav: true
 
 ### Journal reviewing and conference activities
 ---
+- Empirical Software Engineering (`EMSE`)
 - IEEE Transactions on Software Engineering (`TSE`)
 - Automated Software Engineering (`AUSE`)
 - Information Processing and Management (`IPM`)
