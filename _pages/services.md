@@ -47,6 +47,7 @@ nav: true
 - Empirical Software Engineering (`EMSE`)
 - IEEE Transactions on Software Engineering (`TSE`)
 - Automated Software Engineering (`AUSE`)
+- Transactions on Dependable and Secure Computing (`TDSC`)
 - Information Processing and Management (`IPM`)
 - Computers in Human Behavior Reports (`CHBR`)
 - PeerJ Computer Science (`PeerJ`)
