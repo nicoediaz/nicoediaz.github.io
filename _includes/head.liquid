@@ -187,3 +187,32 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+
+{% comment %} Schema.org JSON-LD for personal profile {% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nicolas E. Diaz Ferreyra",
+  "url": "https://www.ndiaz-ferreyra.com",
+  "sameAs": [
+    "https://scholar.google.com/citations?user=J6hzYksAAAAJ",
+    "https://orcid.org/0000-0001-6304-771X",
+    "https://www.linkedin.com/in/nicoediaz"
+  ],
+  "jobTitle": "Lecturer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Hamburg University of Technology",
+    "url": "https://www.tuhh.de"
+  },
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Software Security"
+  },
+  "image": "https://www.ndiaz-ferreyra.com/assets/img/nico2jpg.jpg",
+  "knowsAbout": ["Privacy Engineering", "Usable Security", "HCI", "Empirical Software Engineering"],
+  "description": "Nicolás E. Díaz Ferreyra is a senior researcher and lecturer at the Institute of Software Security of Hamburg University of Technology, Germany. His research covers human factors in software security and user-centred privacy in networked environments. He has a Ph.D. in computer science from the University of Duisburg-Essen, where he worked as a postdoctoral fellow and coordinator of the research group on “User-Centred Social Media” funded by the German Research Foundation (DFG). He hast taken part of several European projects on privacy and securiy including PDP4E, AssureMOSS and more recently Sec4AI4Sec: Cybersecurity for AI-Augmented Systems. Since 2023, he is an associate member of the Research Institute for Socio-Technical Cybersecurity (RISCS) at the University of Bristol."
+}
+</script>
+
