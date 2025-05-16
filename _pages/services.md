@@ -69,6 +69,7 @@ nav: true
 
 ### Other professional and academic services
 ---
+- [CHASE '26](): Int. Conference on Cooperative and Human Aspects of Software Engineering \| *Proceedings Co-Chair* 
 - [FSE '26](): Int. Conference on the Foundations of Software Engineering \| *Student Research Competition Co-Chair*
 - Reviewer for the National PhD Program in Artificial Intelligence of the University of Rome "La Sapienza"
 - [MSR4P&S '24](https://msr4ps.github.io): 3rd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
