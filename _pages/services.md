@@ -59,9 +59,7 @@ nav: true
 - Journal of Systems and Software (`JSS`)
 - Social Network Analysis and Mining (`SNAM`)
 - IET Software
-- MDPI Applied Sciences
-- MDPI Entropy
-- MDPI Information
+- MDPI Applied Sciences, Entropy, Information
 - 2023 CHI Conference on Human Factors in Computing Systems (`CHI 2023`) \| *Reviewer* 
 - The 2022 European Symposium on Usable Security (`EuroUSEC 2022`) \| *Session chair*
 - 12th Conference on Knowledge Management and Information Systems (`KMIS 2020`) \| *Session chair*
