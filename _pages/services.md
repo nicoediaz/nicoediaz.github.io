@@ -46,6 +46,10 @@ nav: true
 ---
 - Empirical Software Engineering (`EMSE`)
 - IEEE Transactions on Software Engineering (`TSE`)
+- Journal of Systems and Software (`JSS`)
+- Computers and Security (`COSE`)
+- Information and Software Technology (`IST`)
+- Software and Systems Modeling (`SoSyM`)
 - Automated Software Engineering (`AUSE`)
 - Transactions on Dependable and Secure Computing (`TDSC`)
 - Information Processing and Management (`IPM`)
@@ -53,10 +57,6 @@ nav: true
 - PeerJ Computer Science (`PeerJ`)
 - Online Social Networks and Media (`OSNEM`)
 - International Journal of Human-Computer Interaction (`IJHCI`)
-- Software and Systems Modeling (`SoSyM`)
-- Information and Software Technology (`IST`)
-- Computers and Security (`COSE`)
-- Journal of Systems and Software (`JSS`)
 - Social Network Analysis and Mining (`SNAM`)
 - IET Software
 - MDPI Applied Sciences, Entropy, Information
