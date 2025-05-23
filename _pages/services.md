@@ -74,10 +74,10 @@ nav: true
 - [MSR4P&S '25](https://msr4ps.github.io): 3rd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
 - [TechDebt '25](https://conf.researchr.org/committee/TechDebt-2025/TechDebt-2025-organizing-committee): 8th International Conference on Technical Debt \| *Publicity Chair*
 - [MSR4P&S '24](https://msr4ps.netlify.app): 2nd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
-- [AIofAI '23](https://sites.google.com/view/aiofai2023/home): 3rd Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
+- [AiOfAi '23](https://sites.google.com/view/aiofai2023/home): 3rd Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
 - [MSR4P&S '22](https://msr4ps.netlify.app): 1st International Workshop on MSR Applications for Privacy and Security \| *Organizer*
-- [AIofAI '22](https://sites.google.com/view/aiofai-2022/home): 2nd Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
-- [AIofAI '21](https://sites.google.com/view/aiofai2021/): 1st Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
+- [AiOfAi '22](https://sites.google.com/view/aiofai-2022/home): 2nd Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
+- [AiOfAi '21](https://sites.google.com/view/aiofai2021/): 1st Workshop on Adverse Impacts and Collateral Effects of AI Technologies \| *Organizer*
 - United Nations’ Roundtable 3C on Artificial Intelligence (2020) \| *Expert Consultant*
 - The Hague Summit for Accountability in the Digital Age (2019) \| *Delegate*
 - The Hague Summit for Accountability and Internet Democracy (2018) \| *Delegate*
