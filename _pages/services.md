@@ -14,6 +14,7 @@ nav: true
 - 20th International Conference on Availability, Reliability and Security (`ARES 2025`)
 - 18th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2025`)
 - International Workshop on Privacy Engineering (`IWPE 2025`)
+- International Workshop on Security and Privacy-Preserving AI/ML (`SPAILM`)
 - 3nd International Workshop on Software Vulnerability Management (`SVM@ICSE 2025`)
 - The 2024 European Symposium on Usable Security (`EuroUSEC 2024`)
 - International Workshop on Privacy Engineering (`IWPE 2024`)
