@@ -66,6 +66,7 @@ nav: true
 
 ### Other professional and academic services
 ---
+- [IFIP '26](https://ifip-summerschool.github.io): 20th IFIP Summer School on Privacy and Identity Management \| *Keynote Speaker*
 - [CHASE '26](): Int. Conference on Cooperative and Human Aspects of Software Engineering \| *Proceedings Co-Chair*
 - [ECSA '26](): European Conference on Software Architecture \| *Registered Report Co-Chair Co-Chair*
 - [FSE '26](): Int. Conference on the Foundations of Software Engineering \| *Student Research Competition Co-Chair*
