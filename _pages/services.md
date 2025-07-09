@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- 19th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2026`)
 - 9th International Conference on Technical Debt (`TechDebt 2026`)
 - The 2025 European Symposium on Usable Security (`EuroUSEC 2025`)
 - 29th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2025`)
