@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- 33rd International Conference on Software Analysis, Evolution, and Reengineering (`SANER 2026`) 
 - 19th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2026`)
 - 9th International Conference on Technical Debt (`TechDebt 2026`)
 - The 2025 European Symposium on Usable Security (`EuroUSEC 2025`)
