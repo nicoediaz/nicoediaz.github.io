@@ -12,6 +12,7 @@ nav: true
 - 33rd International Conference on Software Analysis, Evolution, and Reengineering (`SANER 2026`) 
 - 19th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2026`)
 - 9th International Conference on Technical Debt (`TechDebt 2026`)
+- 21th Int. Conference on Evaluation of Novel Approaches to Software Engineerin(`ENASE`2026`).
 - The 2025 European Symposium on Usable Security (`EuroUSEC 2025`)
 - 29th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2025`)
 - 20th International Conference on Availability, Reliability and Security (`ARES 2025`)
