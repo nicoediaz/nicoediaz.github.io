@@ -53,6 +53,7 @@ nav: true
 ### Journal reviewing and conference activities
 ---
 - Empirical Software Engineering (`EMSE`)
+- IEEE Software (`IEEE Software`)
 - IEEE Transactions on Software Engineering (`TSE`)
 - Journal of Systems and Software (`JSS`)
 - Computers and Security (`COSE`)
