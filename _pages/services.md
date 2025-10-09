@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- 43rd International Conference in Software Engineering - SRC Track (`SRC@ICSE 2026`)
 - 33rd International Conference on Software Analysis, Evolution, and Reengineering (`SANER 2026`)
 - 1st International Workshop on Fairness in Software Systems (`Fairness@SANER 2026`)
 - 19th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2026`)
