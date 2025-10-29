@@ -80,7 +80,7 @@ nav: true
 ---
 - [IFIP '26](https://ifip-summerschool.github.io): 20th IFIP Summer School on Privacy and Identity Management \| *Keynote Speaker*
 - [CHASE '26](): Int. Conference on Cooperative and Human Aspects of Software Engineering \| *Proceedings Co-Chair*
-- [ECSA '26](): European Conference on Software Architecture \| *Registered Report Co-Chair Co-Chair*
+- [ECSA '26](): European Conference on Software Architecture \| *Journal First Co-Chair*
 - [FSE '26](): Int. Conference on the Foundations of Software Engineering \| *Student Research Competition Co-Chair*
 - Reviewer for the National PhD Program in Artificial Intelligence of the University of Rome "La Sapienza"
 - [MSR4P&S '25](https://msr4ps.github.io): 3rd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
