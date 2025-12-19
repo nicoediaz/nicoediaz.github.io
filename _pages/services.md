@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- 21th International Conference on Availability, Reliability and Security (`ARES 2026`)
 - 30th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2026`)
 - 48th International Conference in Software Engineering - SRC Track (`SRC@ICSE 2026`)
 - 33rd International Conference on Software Analysis, Evolution, and Reengineering (`SANER 2026`)
