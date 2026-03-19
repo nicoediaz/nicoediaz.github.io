@@ -9,9 +9,12 @@ nav: true
 
 ### Program committee memberships
 ---
+- 23rd Annual International Conference on Privacy, Security, and Trust (`PST 2026`)
+- 1st International Conference on Sociotechnical Cybersecurity and Privacy (`SCP2026`)
 - 21th International Conference on Availability, Reliability and Security (`ARES 2026`)
 - 30th International Conference on Evaluation and Assessment in Software Engineering (`EASE 2026`)
 - 48th International Conference in Software Engineering - SRC Track (`SRC@ICSE 2026`)
+- International Workshop on Privacy Engineering (`IWPE@EuroS&P 2026`)
 - 33rd International Conference on Software Analysis, Evolution, and Reengineering (`SANER 2026`)
 - 1st International Workshop on Fairness in Software Systems (`Fairness@SANER 2026`)
 - 19th Int. Conference on Cooperative and Human Aspects of Software Engineering (`CHASE 2026`)
