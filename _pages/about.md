@@ -27,4 +27,8 @@ I am a senior researcher and lecturer (tenured faculty member) at the [Institute
 
 Before joining the Hamburg University of Technology, I worked as a postdoctoral fellow at the [University of Duisburg-Essen](https://www.uni-due.de). From January 2020 to October 2021 I was the coordinator of the RTG “User-Centered Social Media” funded by the German Research Foundation (DFG). I have taken part of several European projects on privacy and securiy including [PDP4E](https://cordis.europa.eu/project/id/787034), [AssureMOSS](https://cordis.europa.eu/project/id/952647) and more recently [Sec4AI4Sec](https://www.sec4ai4sec-project.eu): Cybersecurity for AI-Augmented Systems. In the past, I have worked as a software engineer in Denmark and as an undergraduate research assistant in Argentina.
 
-Since 2023 I am an associate member of the Research Institute for Socio-Technical Cybersecurity ([RISCS](https://riscs.org.uk)) at the [University of Bristol](https://www.bristol.ac.uk). Besides conducting my research, I am involved in multi-stakeholder forums for the discussion of public policies and Internet governance issues. Particularly, in debates concerning the users' right to privacy and control over their private information.
+<!--
+Since 2023 I am an associate member of the Research Institute for Socio-Technical Cybersecurity ([RISCS](https://riscs.org.uk)) at the [University of Bristol](https://www.bristol.ac.uk). 
+-->
+
+Since 2026 I am an associate member of the Human-Centred Cyber Security group ([RCCS](https://www.rmit.edu.au/research/centres-collaborations/cyber-security-research-innovation)) at RMIT Centre for Cyber Security Research and Innovation. Besides conducting my research, I am involved in multi-stakeholder forums for the discussion of public policies and Internet governance issues. Particularly, in debates concerning the users' right to privacy and control over their private information.
