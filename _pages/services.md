@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- Symposium on Empirical Software Engineering and Measurement - Emerging Results (`ESEM 2026`)
 - 23rd Annual International Conference on Privacy, Security, and Trust (`PST 2026`)
 - 1st International Conference on Sociotechnical Cybersecurity and Privacy (`SCP 2026`)
 - 21th International Conference on Availability, Reliability and Security (`ARES 2026`)
