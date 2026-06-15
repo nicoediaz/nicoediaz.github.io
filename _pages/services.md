@@ -83,11 +83,12 @@ nav: true
 
 ### Other professional and academic services
 ---
-- [IFIP '25](https://ifip-summerschool.github.io): 20th IFIP Summer School on Privacy and Identity Management \| *Keynote Speaker*
+- [CORE '26](https://www.fnr.lu/funding-instruments/core/): Luxembourg National Research Fund \| *Project Reviewer*
 - [CHASE '26](): Int. Conference on Cooperative and Human Aspects of Software Engineering \| *Proceedings Co-Chair*
 - [ECSA '26](): European Conference on Software Architecture \| *Journal First Co-Chair*
 - [FSE '26](): Int. Conference on the Foundations of Software Engineering \| *Student Research Competition Co-Chair*
-- Reviewer for the National PhD Program in Artificial Intelligence of the University of Rome "La Sapienza"
+- [IFIP '25](https://ifip-summerschool.github.io): 20th IFIP Summer School on Privacy and Identity Management \| *Keynote Speaker*
+- Reviewer for the National PhD Program in Artificial Intelligence of the University of Rome "La Sapienza" \| *Thesis Reviewer*
 - [MSR4P&S '25](https://msr4ps.github.io): 3rd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
 - [TechDebt '25](https://conf.researchr.org/committee/TechDebt-2025/TechDebt-2025-organizing-committee): 8th International Conference on Technical Debt \| *Publicity Chair*
 - [MSR4P&S '24](https://msr4ps.netlify.app): 2nd International Workshop on MSR Applications for Privacy and Security \| *Organizer*
