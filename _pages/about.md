@@ -29,19 +29,13 @@ I am a senior researcher and lecturer (tenured faculty member) at the [Institute
 <!--
 Since 2023 I am an associate member of the Research Institute for Socio-Technical Cybersecurity ([RISCS](https://riscs.org.uk)) at the [University of Bristol](https://www.bristol.ac.uk). 
 -->
-I am a senior researcher and lecturer (tenured faculty member) at the [Institute of Software Security](https://www.tuhh.de/softsec/) of [Hamburg University of Technology](https://www.tuhh.de/). My research stands at the intersection of security engineering and human-computer interaction. Particularly, I am interested in the security of software-intensive systems and their usability from the standpoint of both users and practitioners. My work includes the study of human and organisational factors in software security, the usability of security-enhancing technologies, and methods for identifying and addressing security risks in software architectures, including threat modeling. For this, I analyse empirical data extracted from software repositories, conduct studies with human participants, and develop machine learning models. My recent work on [security debt](https://gepris.dfg.de/gepris/projekt/575580343?language=en) has received a three-year project grant from the German Research Foundation (DFG), starting in November 2026.
+I am a senior researcher and lecturer (tenured faculty member) at the [Institute of Software Security](https://www.tuhh.de/softsec/) of [Hamburg University of Technology](https://www.tuhh.de/). My research stands at the intersection of security engineering and human-computer interaction. Particularly, I am interested in the security of software-intensive systems and their usability from the standpoint of both users and practitioners. My work includes the study of human and organisational factors in software security, the usability of security-enhancing technologies, and methods for identifying and addressing security risks in software architectures, including threat modeling. For this, I analyse empirical data extracted from software repositories, conduct studies with human participants, and develop machine learning models. My recent work on security debt has received a [three-year project grant](https://gepris.dfg.de/gepris/projekt/575580343?language=en) from the German Research Foundation (DFG), starting in November 2026.
 
 I am currently working on the following research areas:
-
-  ✦✦✦ Security debt
-  
-  ✦✦  Usable security and privacy
-  
-  ✦✦  Security practices in agentic software engineering
-  
-  ✦✦  Threat modeling for AI-augmented software architectures
-  
-  ✦   Privacy as Code
+&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond::small_blue_diamond::small_blue_diamond: Security debt
+&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond::small_blue_diamond: Security practices in agentic software engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond::small_blue_diamond: Threat modeling for AI-augmented software architectures  
+&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond: Privacy as Code
 
 Before joining Hamburg University of Technology, I worked as a postdoctoral fellow at the [University of Duisburg-Essen](https://www.uni-due.de). From January 2020 to October 2021, I coordinated the DFG-funded Research Training Group “User-Centered Social Media.” I have participated in several European projects on privacy and security, including [PDP4E](https://cordis.europa.eu/project/id/787034), [AssureMOSS](https://cordis.europa.eu/project/id/952647), and, more recently, [Sec4AI4Sec](https://www.sec4ai4sec-project.eu), which focuses on cybersecurity for AI-augmented systems. In the past, I worked as a software engineer in Denmark and as an undergraduate research assistant in Argentina.
 
