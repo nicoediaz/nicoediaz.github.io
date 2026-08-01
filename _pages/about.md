@@ -31,9 +31,9 @@ Since 2023 I am an associate member of the Research Institute for Socio-Technica
 -->
 I am a senior researcher and lecturer (tenured faculty member) at the [Institute of Software Security](https://www.tuhh.de/softsec/) of [Hamburg University of Technology](https://www.tuhh.de/). My research stands at the intersection of security engineering and human-computer interaction. Particularly, I am interested in the security of software-intensive systems and their usability from the standpoint of both users and practitioners. This includes the study of human and organisational factors in software security, the usability of security-enhancing technologies, and methods for identifying and addressing security risks in software architectures, including threat modeling. For this, I analyse empirical data extracted from software repositories, conduct studies with human participants, and develop machine learning models. My recent work on security debt has received a [three-year project grant](https://gepris.dfg.de/gepris/projekt/575580343?language=en) from the German Research Foundation (DFG), starting in November 2026.
 
-I am currently working on the following topics:
+I am actively working on the following topics:
 
-&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Security debt
+&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Security debt  
 &nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Security practices in agentic software engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Threat modeling for AI-augmented software architectures  
 &nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Privacy as Code
