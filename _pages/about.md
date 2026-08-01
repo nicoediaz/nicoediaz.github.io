@@ -33,10 +33,10 @@ I am a senior researcher and lecturer (tenured faculty member) at the [Institute
 
 I am actively working on the following topics:
 
-&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Security debt  
-&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Security practices in agentic software engineering  
-&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Threat modeling for AI-augmented software architectures  
-&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: Privacy as Code
+&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: **Security debt**  
+&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: **Security practices in agentic software engineering**  
+&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: **Threat modeling for AI-augmented software architectures**  
+&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_diamond: **Privacy as Code**
 
 Before joining Hamburg University of Technology, I worked as a postdoctoral fellow at the [University of Duisburg-Essen](https://www.uni-due.de). From January 2020 to October 2021, I coordinated the DFG-funded Research Training Group “User-Centered Social Media.” I have participated in several European projects on privacy and security, including [PDP4E](https://cordis.europa.eu/project/id/787034), [AssureMOSS](https://cordis.europa.eu/project/id/952647), and, more recently, [Sec4AI4Sec](https://www.sec4ai4sec-project.eu), which focuses on cybersecurity for AI-augmented systems. In the past, I worked as a software engineer in Denmark and as an undergraduate research assistant in Argentina.
 
