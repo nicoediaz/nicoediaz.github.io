@@ -9,9 +9,9 @@ profile:
   image: nico2jpg.jpg
   image_cicular: false # crops the image to make it circular
   more_info: >
-    <p>Institute of Software Security</p>
-    <p>Blohmstr. 15</p>
-    <p>21079 Hamburg, Germany</p>
+    <p><small>Institute of Software Security</small></p>
+    <p><small>Blohmstr. 15</small></p>
+    <p><small>21079 Hamburg, Germany</small></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
