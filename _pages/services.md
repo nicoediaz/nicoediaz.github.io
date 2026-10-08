@@ -9,6 +9,7 @@ nav: true
 
 ### Program committee memberships
 ---
+- 24th International Conference on Mining Software Repositories - Mining Challenge (`MSR 2027`)
 - Symposium on Empirical Software Engineering and Measurement - Emerging Results (`ESEM 2026`)
 - 23rd Annual International Conference on Privacy, Security, and Trust (`PST 2026`)
 - 1st International Conference on Sociotechnical Cybersecurity and Privacy (`SCP 2026`)
